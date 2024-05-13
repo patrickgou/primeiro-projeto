@@ -9,4 +9,4 @@ um pequeno projeto estudando css3.
 ![](./img/screenshot.png)
 
 ## Link do site
-URL:[card flexbox]()
+URL: [card flexbox](https://patrickgou.github.io/primeiro-projeto/)
